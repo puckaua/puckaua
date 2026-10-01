@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Kau%C3%A3+Soares&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60/">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Sistemas+de+Informação+—+PUC+Minas;Frontend+·+Backend+·+Automação;Tecnologia+com+impacto+real%22/>
+<img src="https://readme-typing-svg.herokuapp.com/demo/?color=7400FF&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+PUC+Minas;Frontend+%C2%B7+Backend+%C2%B7+Gest%C3%A3o;%22A+persist%C3%AAncia+%C3%A9+a+chave+para+o+sucesso.%22">
  
  
 ---
