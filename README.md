@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Kau%C3%A3+Soares&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60/">
-<img src="https://readme-typing-svg.herokuapp.com/demo/?color=7400FF&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+PUC+Minas;Frontend+%C2%B7+Backend+%C2%B7+Gest%C3%A3o;%22A+persist%C3%AAncia+%C3%A9+a+chave+para+o+sucesso.%22">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7400FF&width=435&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+PUC+Minas;Frontend+%C2%B7+Backend+%C2%B7+Gest%C3%A3o;%22A+persist%C3%AAncia+%C3%A9+a+chave+para+o+sucesso.%22" alt="Typing SVG" /></a>
  
  
 ---
