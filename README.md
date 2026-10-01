@@ -17,7 +17,7 @@
 <br>
  
 <div align="center">
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=puckaua&show_icons=true&theme=tokyonight&hide_border=true%22/">
+<img height="160em" src="https://github-stats-extended.vercel.app/api?username=puckaua&show_icons=true&theme=tokyonight&hide_border=true%22/">
 <img src="https://github-stats-extended.vercel.app/api?username=puckaua">
 </div>
  
