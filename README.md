@@ -18,7 +18,7 @@
  
 <div align="center">
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=puckaua&show_icons=true&theme=tokyonight&hide_border=true%22/">
-<img height="160em" src="https://github-stats-extended.vercel.app/api?username=puckaua&layout=compact&theme=tokyonight&hide_border=true%22/>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </div>
  
 ---
