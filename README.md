@@ -33,7 +33,12 @@
 #  Stack & Ferramentas
  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,react,nodejs,mysql,bootstrap,figma,git&theme=dark%22"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+
+  </a>
+</p> 
 </div>
  
 ---
