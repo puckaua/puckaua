@@ -9,9 +9,7 @@
  
 *  Desenvolvimento frontend e backend
 *  Automação com Python
-*  Experiência com Figma e ArcGIS
-*  Banco de dados
-*  Tecnologia com impacto social
+*  Gestão de projetos
 *  Sistemas de Informação — PUC Minas
  
 <br>
@@ -35,7 +33,7 @@
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,react,nodejs,mysql,bootstrap,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,python,java,cs,mysql,figma,git" />
 
   </a>
 </p> 
