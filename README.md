@@ -33,7 +33,7 @@
 #  Stack & Ferramentas
  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,react,nodejs,mysql,bootstrap,figma,git&theme=dark%22/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,react,nodejs,mysql,bootstrap,figma,git&theme=dark%22"/>
 </div>
  
 ---
@@ -56,7 +56,7 @@
  
 <div align="center">
  
-<a href="https://github.com/carolina879/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carolina879&repo=psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/carolina879/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica"><img src="https://github-stats-extended.vercel.app/api/pin/?username=carolina879&repo=psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica&theme=tokyonight&hide_border=true"/></a>
  
 <br><br>
  
