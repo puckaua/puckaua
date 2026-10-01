@@ -72,7 +72,7 @@
 # Contribution Snake
  
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/puckaua/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
  
 ---
